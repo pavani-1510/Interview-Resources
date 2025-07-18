@@ -7,7 +7,7 @@
 * [Ebook Foundation – Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-### 👨‍💻 Coding Interview Preparation
+### 👨‍💻 Coding Interview Preparation - Youtube
 * [Complete Placement Course – Java (YouTube)](https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
 * [Blind 75 Leetcode Java – All Questions Solved (YouTube)](https://www.youtube.com/watch?v=PieZjz2Pyhw)
 * [8 Patterns to Solve 80% Leetcode Problems (YouTube)](https://www.youtube.com/watch?v=xo7XrRVxH8Y)
