@@ -1,6 +1,5 @@
 # Interview-Resources
 ---
-
 ## 🌐 Useful Links
 ### 📖 Programming Books & Cheat Sheets
 * [GoalKicker – Free Programming Books](https://goalkicker.com/)
@@ -19,7 +18,6 @@
 * [10 Common Coding Interview Problems – Solved (YouTube)](https://www.youtube.com/watch?v=Peq4GCPNC5c)
 
 ### 📁 Drives & GitHub Repositories
-
 * [Google Drive – Interview Materials](https://drive.google.com/drive/folders/1DCD8y0XoPjgSJrTNf20QrUxSAs2xnTyf)
 * [Leetcode Company-Wise Problems (GitHub)](https://github.com/liquidslr/leetcode-company-wise-problems/tree/main)
 * [Awesome Leetcode Resources (GitHub)](https://github.com/ashishps1/awesome-leetcode-resources)
@@ -27,9 +25,7 @@
 ---
 
 ## 🌐 Web Development
-
 ### 📗 Courses & Tutorials
-
 * [Microsoft – Web Development for Beginners (GitHub)](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ---
