@@ -10,7 +10,7 @@ Start with these foundational courses on CodeChef:
 
 Course 1
 
-Course 2
+[500 difficulty questions](https://www.codechef.com/practice/basic-programming-concepts)
 
 
 ✅ Step 3: Solve LeetCode Problems
