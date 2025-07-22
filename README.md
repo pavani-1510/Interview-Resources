@@ -29,7 +29,7 @@ After completing a basic course, practice with beginner-level problems:
 ---
 
 ✅ **Step 3: Learn Data Structures & Algorithms (DSA)**
-Once you’re comfortable with basic problem-solving, move on to mastering DSA.
+Once you’re comfortable with basic problem-solving, move on to mastering DSA in Leetcode.
 
 ### 📊 **Arrays**
 
