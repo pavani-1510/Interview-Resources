@@ -8,8 +8,11 @@ Pick one programming language you’re comfortable with (e.g., Python, Java, or 
 ✅ Step 2: Complete CodeChef Courses
 Start with these foundational courses on CodeChef:
 
-Course 1
+[Java course](https://www.codechef.com/practice/java)
+[Python course](
+https://www.codechef.com/practice/python)
 
+After 
 [500 difficulty questions](https://www.codechef.com/practice/basic-programming-concepts)
 => Note that only 62% of problems are free.
 
