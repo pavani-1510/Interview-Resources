@@ -16,8 +16,7 @@ Course 2
 ✅ Step 3: Solve LeetCode Problems
 Practice problems on LeetCode regularly.
 📌 Sort the problems in increasing order of difficulty and solve them one by one.
-📌 Set the maximum time limit to 20 mins.
-📌 Refer solutions if unable to solve in 20 mins.
+📌 Set the maximum time limit to 20 mins.Refer solutions if unable to solve in 20 mins.
 
 ✅ Step 4: Learn DSA & Prepare for Placements
 Once you’re comfortable with basic problem solving, move on to:
