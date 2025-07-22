@@ -11,7 +11,7 @@ Start with these foundational courses on CodeChef:
 Course 1
 
 [500 difficulty questions](https://www.codechef.com/practice/basic-programming-concepts)
-
+=> Note that only 62% of problems are free.
 
 ✅ Step 3: Solve LeetCode Problems
 Practice problems on LeetCode regularly.
