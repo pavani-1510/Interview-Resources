@@ -137,6 +137,7 @@ Once you’re comfortable with basic problem-solving, move on to mastering DSA i
 * [GoalKicker – Free Programming Books](https://goalkicker.com/)
 * [Ebook Foundation – Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [SOBrief - Books](https://sobrief.com/)
 
 ---
 
@@ -155,6 +156,7 @@ Once you’re comfortable with basic problem-solving, move on to mastering DSA i
 * [Interview Materials (Google Drive)](https://drive.google.com/drive/folders/1DCD8y0XoPjgSJrTNf20QrUxSAs2xnTyf)
 * [LeetCode Company-Wise Problems (GitHub)](https://github.com/liquidslr/leetcode-company-wise-problems)
 * [Awesome LeetCode Resources (GitHub)](https://github.com/ashishps1/awesome-leetcode-resources)
+* [Build your own X (GitHub)](https://github.com/codecrafters-io/build-your-own-x)
 
 ---
 
